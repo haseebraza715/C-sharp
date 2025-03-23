@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oopassign2", "oopassign2.csproj", "{8570084E-F220-404D-8A4F-8562864F48A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "..\Testing\Testing.csproj", "{A61BD0C9-5E8E-41CD-86B5-052E1B9ED277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8570084E-F220-404D-8A4F-8562864F48A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8570084E-F220-404D-8A4F-8562864F48A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8570084E-F220-404D-8A4F-8562864F48A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8570084E-F220-404D-8A4F-8562864F48A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A61BD0C9-5E8E-41CD-86B5-052E1B9ED277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61BD0C9-5E8E-41CD-86B5-052E1B9ED277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61BD0C9-5E8E-41CD-86B5-052E1B9ED277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61BD0C9-5E8E-41CD-86B5-052E1B9ED277}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9698465-AB0B-43B4-8F86-60EF8C14356A}
+	EndGlobalSection
+EndGlobal

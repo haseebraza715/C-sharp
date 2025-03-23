@@ -1,0 +1,17 @@
+C:\Users\Waseer\OneDrive\Desktop\Assignment2-Final\oopassign2\bin\Debug\net8.0\oopassign2.exe
+C:\Users\Waseer\OneDrive\Desktop\Assignment2-Final\oopassign2\bin\Debug\net8.0\oopassign2.deps.json
+C:\Users\Waseer\OneDrive\Desktop\Assignment2-Final\oopassign2\bin\Debug\net8.0\oopassign2.runtimeconfig.json
+C:\Users\Waseer\OneDrive\Desktop\Assignment2-Final\oopassign2\bin\Debug\net8.0\oopassign2.dll
+C:\Users\Waseer\OneDrive\Desktop\Assignment2-Final\oopassign2\bin\Debug\net8.0\oopassign2.pdb
+C:\Users\Waseer\OneDrive\Desktop\Assignment2-Final\oopassign2\bin\Debug\net8.0\TextFile.dll
+C:\Users\Waseer\OneDrive\Desktop\Assignment2-Final\oopassign2\obj\Debug\net8.0\oopassign2.csproj.AssemblyReference.cache
+C:\Users\Waseer\OneDrive\Desktop\Assignment2-Final\oopassign2\obj\Debug\net8.0\oopassign2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Waseer\OneDrive\Desktop\Assignment2-Final\oopassign2\obj\Debug\net8.0\oopassign2.AssemblyInfoInputs.cache
+C:\Users\Waseer\OneDrive\Desktop\Assignment2-Final\oopassign2\obj\Debug\net8.0\oopassign2.AssemblyInfo.cs
+C:\Users\Waseer\OneDrive\Desktop\Assignment2-Final\oopassign2\obj\Debug\net8.0\oopassign2.csproj.CoreCompileInputs.cache
+C:\Users\Waseer\OneDrive\Desktop\Assignment2-Final\oopassign2\obj\Debug\net8.0\oopassign2.csproj.Up2Date
+C:\Users\Waseer\OneDrive\Desktop\Assignment2-Final\oopassign2\obj\Debug\net8.0\oopassign2.dll
+C:\Users\Waseer\OneDrive\Desktop\Assignment2-Final\oopassign2\obj\Debug\net8.0\refint\oopassign2.dll
+C:\Users\Waseer\OneDrive\Desktop\Assignment2-Final\oopassign2\obj\Debug\net8.0\oopassign2.pdb
+C:\Users\Waseer\OneDrive\Desktop\Assignment2-Final\oopassign2\obj\Debug\net8.0\oopassign2.genruntimeconfig.cache
+C:\Users\Waseer\OneDrive\Desktop\Assignment2-Final\oopassign2\obj\Debug\net8.0\ref\oopassign2.dll
